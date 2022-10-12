@@ -1,4 +1,7 @@
+Thinkful HW Assignment - Pete Thinkful Webpage
+
 Lesson 10
+
 Build your portfolio web page
 Overview
 Over the course of this module, you've learned new HTML and CSS skills and used those skills in silos. Now you will use them all at once! This is going to be fun—you'll get to create your first of many websites.
